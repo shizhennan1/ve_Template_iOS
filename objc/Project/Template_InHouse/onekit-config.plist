@@ -5,13 +5,15 @@
 	<key>project_info</key>
 	<dict>
 		<key>ak</key>
-		<string>MARS_AK</string>
+		<string>a6d8a5dcc7633a10e4852c7e8def70ee</string>
 		<key>app_id</key>
-		<string>MARS_APPID</string>
+		<string>10067270
+10067270
+</string>
 		<key>privacy_mode</key>
-		<false/>
+		<true/>
 		<key>sk</key>
-		<string>MARS_SK</string>
+		<string>ec16cd1f6f733664e7fe7912802567d4</string>
 	</dict>
 	<key>services</key>
 	<dict>
@@ -45,7 +47,9 @@
 		<key>update</key>
 		<dict>
 			<key>host</key>
-			<string>RELEASE_HOST</string>
+			<string>https://cedar.bytedance.net
+https://cedar.bytedance.net
+</string>
 		</dict>
 	</dict>
 	<key>version</key>
