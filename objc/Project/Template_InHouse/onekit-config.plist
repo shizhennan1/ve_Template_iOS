@@ -7,9 +7,7 @@
 		<key>ak</key>
 		<string>a6d8a5dcc7633a10e4852c7e8def70ee</string>
 		<key>app_id</key>
-		<string>10067270
-10067270
-</string>
+		<string>10067270</string>
 		<key>privacy_mode</key>
 		<true/>
 		<key>sk</key>
@@ -47,9 +45,7 @@
 		<key>update</key>
 		<dict>
 			<key>host</key>
-			<string>https://cedar.bytedance.net
-https://cedar.bytedance.net
-</string>
+			<string>https://cedar.bytedance.net</string>
 		</dict>
 	</dict>
 	<key>version</key>
