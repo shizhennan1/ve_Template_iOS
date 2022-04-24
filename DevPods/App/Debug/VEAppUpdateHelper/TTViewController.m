@@ -61,7 +61,7 @@
 
 - (void)checkButtonClicked:(UIButton *)btn {
     [self update];
-//  [defaultHelper startCheckVersion];
+    [self.updateHelper startCheckVersion];
 }
 
 
@@ -74,7 +74,7 @@
         self.updateHelper = defaultHelper;
         self.updateHelper.callType = @(0);
         self.updateHelper.city = @"Shanghai";
-        [self.updateHelper startCheckVersion];
+        //  [defaultHelper startCheckVersion];
     }
 }
 
