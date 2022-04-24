@@ -353,7 +353,7 @@
 				CODE_SIGN_ENTITLEMENTS = Template_InHouse/Template_InHouse.entitlements;
 				CODE_SIGN_IDENTITY = "iPhone Distribution";
 				CODE_SIGN_STYLE = Manual;
-				CURRENT_PROJECT_VERSION = 2.2.2.7;
+				CURRENT_PROJECT_VERSION = 2.2.2.8;
 				DEVELOPMENT_TEAM = X46375UBYG;
 				INFOPLIST_FILE = Template_InHouse/Info.plist;
 				LD_GENERATE_MAP_FILE = YES;
@@ -377,7 +377,7 @@
 				CODE_SIGN_ENTITLEMENTS = Template_InHouse/Template_InHouse.entitlements;
 				CODE_SIGN_IDENTITY = "iPhone Distribution";
 				CODE_SIGN_STYLE = Manual;
-				CURRENT_PROJECT_VERSION = 2.2.2.7;
+				CURRENT_PROJECT_VERSION = 2.2.2.8;
 				DEVELOPMENT_TEAM = X46375UBYG;
 				INFOPLIST_FILE = Template_InHouse/Info.plist;
 				LD_GENERATE_MAP_FILE = YES;
