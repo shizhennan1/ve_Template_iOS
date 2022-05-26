@@ -356,7 +356,7 @@
 				CURRENT_PROJECT_VERSION = 2.2.2.11;
 				DEVELOPMENT_TEAM = X46375UBYG;
 				INFOPLIST_FILE = Template_InHouse/Info.plist;
-				LD_GENERATE_MAP_FILE = NO;
+				LD_GENERATE_MAP_FILE = YES;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -380,7 +380,7 @@
 				CURRENT_PROJECT_VERSION = 2.2.2.11;
 				DEVELOPMENT_TEAM = X46375UBYG;
 				INFOPLIST_FILE = Template_InHouse/Info.plist;
-				LD_GENERATE_MAP_FILE = NO;
+				LD_GENERATE_MAP_FILE = YES;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
