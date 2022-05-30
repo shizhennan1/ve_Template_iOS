@@ -45,7 +45,7 @@
 		<key>update</key>
 		<dict>
 			<key>host</key>
-			<string>https://release-api.vemarsdev.com</string>
+			<string>h</string>
 		</dict>
 	</dict>
 	<key>version</key>
